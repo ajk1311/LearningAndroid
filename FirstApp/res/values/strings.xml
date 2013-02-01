@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">FirstApp</string>
+    <string name="name_entry_hint">Please enter your name</string>
+    <string name="name_label_prefix">Hello, </string>
+    <string name="name_btn_label">Say hello!</string>
+
+</resources>
