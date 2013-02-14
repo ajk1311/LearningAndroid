@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>Adams, James</item>
+        <item>Carney, Sean</item>
+        <item>Cprek, Stephen</item>
+        <item>Damiani, Joseph</item>
+        <item>Dougherty, Steve</item>
+        <item>Dwan, Kristen</item>
+        <item>Edmond, Eric</item>
+        <item>Hash, Jacob</item>
+        <item>Kause, AJ</item>
+        <item>Kornylo, Alyssa</item>
+        <item>Lyons, Rodney</item>
+        <item>Qi, Connie</item>
+        <item>Ringenberg, Jeff</item>
+        <item>Small, Robert</item>
+        <item>Wang, Zhichao</item>
+        <item>Adams, James</item>
+        <item>Carney, Sean</item>
+        <item>Cprek, Stephen</item>
+        <item>Damiani, Joseph</item>
+        <item>Dougherty, Steve</item>
+        <item>Dwan, Kristen</item>
+        <item>Edmond, Eric</item>
+        <item>Hash, Jacob</item>
+        <item>Kause, AJ</item>
+        <item>Kornylo, Alyssa</item>
+        <item>Lyons, Rodney</item>
+        <item>Qi, Connie</item>
+        <item>Ringenberg, Jeff</item>
+        <item>Small, Robert</item>
+        <item>Wang, Zhichao</item>
+        <item>Adams, James</item>
+        <item>Carney, Sean</item>
+        <item>Cprek, Stephen</item>
+        <item>Damiani, Joseph</item>
+        <item>Dougherty, Steve</item>
+        <item>Dwan, Kristen</item>
+        <item>Edmond, Eric</item>
+        <item>Hash, Jacob</item>
+        <item>Kause, AJ</item>
+        <item>Kornylo, Alyssa</item>
+        <item>Lyons, Rodney</item>
+        <item>Qi, Connie</item>
+        <item>Ringenberg, Jeff</item>
+        <item>Small, Robert</item>
+        <item>Wang, Zhichao</item>
+    </string-array>
+    
+    <string-array name="uniqnames">
+        <item>jamesja</item>
+        <item>carneys</item>
+        <item>scprek</item>
+        <item>damianij</item>
+        <item>sdough</item>
+        <item>dwankri</item>
+        <item>eedmond</item>
+        <item>jhash</item>
+        <item>akausejr</item>
+        <item>alyssako</item>
+        <item>rodly</item>
+        <item>connieqi</item>
+        <item>jringenb</item>
+        <item>robsmall</item>
+        <item>owenwang</item>
+        <item>jamesja</item>
+        <item>carneys</item>
+        <item>scprek</item>
+        <item>damianij</item>
+        <item>sdough</item>
+        <item>dwankri</item>
+        <item>eedmond</item>
+        <item>jhash</item>
+        <item>akausejr</item>
+        <item>alyssako</item>
+        <item>rodly</item>
+        <item>connieqi</item>
+        <item>jringenb</item>
+        <item>robsmall</item>
+        <item>owenwang</item>
+        <item>jamesja</item>
+        <item>carneys</item>
+        <item>scprek</item>
+        <item>damianij</item>
+        <item>sdough</item>
+        <item>dwankri</item>
+        <item>eedmond</item>
+        <item>jhash</item>
+        <item>akausejr</item>
+        <item>alyssako</item>
+        <item>rodly</item>
+        <item>connieqi</item>
+        <item>jringenb</item>
+        <item>robsmall</item>
+        <item>owenwang</item>
+    </string-array>
+</resources>
